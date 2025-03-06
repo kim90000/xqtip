@@ -16,3 +16,9 @@ Installation did not work in
 colab t4
 win10
 wsl win10
+
+
+
+
+
+https://www.youtube.com/watch?v=pC6d2YpIha8&t=456s
